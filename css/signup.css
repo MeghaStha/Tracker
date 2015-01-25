@@ -1,0 +1,14 @@
+body {
+    background: url('img/background.png');
+    background-color: #444;
+    background: url('../img/pinlayer2.png'),url('../img/pinlayer1.png'),url('../img/background.png');
+    font-family: 'Open Sans', sans-serif; 
+}
+
+.vertical-offset-100 {
+    padding-top: 100px;
+}
+
+.pad-top {
+    padding-top:40px;
+}

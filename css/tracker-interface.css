@@ -1,0 +1,23 @@
+html, body, #map {
+    height: 94.5%;
+    width: 100%;
+    padding: 0px;
+    margin: 0px;
+}
+
+#loading-indicator {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-left: -40px;
+    width: 80px;
+    height: 80px;
+    margin: 0px;
+    z-index: 12345678;
+    /*min-height: 100%;
+    width: 100%;*/
+}
+
+#navbar {
+    background: #0732a2;
+}

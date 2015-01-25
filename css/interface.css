@@ -1,0 +1,49 @@
+#map{
+    height:100%;
+}
+
+#loading-indicator {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-left: -40px;
+    width: 80px;
+    height: 80px;
+    margin: 0px;
+    z-index: 12345678;
+}
+
+.profile-picture-container-green {
+    width: 64px;
+    height: 64px;
+    /*border-color: #FFFFFF;*/
+    /*overflow:hidden;*/
+    border-radius: 36px;
+    border-style: solid;
+    border-width: 6px;
+    border-color: #00933B;
+}
+.profile-picture-container-yellow {
+    width: 64px;
+    height: 64px;
+    /*border-color: #FFFFFF;*/
+    /*overflow:hidden;*/
+    border-radius: 36px;
+    border-style: solid;
+    border-width: 6px;
+    border-color: #F2B50F;
+}
+.profile-picture-container-red {
+    width: 64px;
+    height: 64px;
+    /*border-color: #FFFFFF;*/
+    /*overflow:hidden;*/
+    border-radius: 36px;
+    border-style: solid;
+    border-width: 6px;
+    border-color: #F90101;
+}
+
+#navbar {
+    background: #0732a2;
+}
