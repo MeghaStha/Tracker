@@ -18,11 +18,11 @@
     <link rel="icon" type="image/ico" href="img/tracker.png">
 
     <link rel="stylesheet" type="text/css" href="./lib/css/bootstrap.css"/>
-    <link rel="stylesheet" type="text/css" href="./lib/css/bootstrap-typeahead.css"/>
+    <!--<link rel="stylesheet" type="text/css" href="./lib/css/bootstrap-typeahead.css"/>-->
     <link rel="stylesheet" type="text/css" href="./lib/css/jqueryui.css"/>
     <link rel="stylesheet" type="text/css" href="./lib/leaflet/leaflet.label.css"/>
     <link rel="stylesheet" type="text/css" href="./lib/leaflet/leaflet.css" /> 
-    <link rel="stylesheet" type="text/css" href="./lib/css/typeahead.css" />
+    <!--<link rel="stylesheet" type="text/css" href="./lib/css/typeahead.css" />-->
     <link rel='stylesheet' type="text/css" href='./lib/css/MarkerCluster.css'  />
     <link rel="stylesheet" type="text/css" href='./lib/css/MarkerCluster.Default.css'/>
     <link rel="stylesheet" type="text/css" href="./css/profile-page.css"/>
